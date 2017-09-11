@@ -8,9 +8,9 @@ export class WooCommerceProvider {
 
   constructor() {
     this.WooCommerce = WC({
-      url: "http://samarth.cloudapp.net",
-      consumerKey: "ck_d6c5feec9ea1c407d2f91661c5137c6e3e48ae3b",
-      consumerSecret: "cs_de8e6cf03a5afd10491dfb1756415ac5a0169ae8"
+      url: "http://www.srisaicards.com",
+      consumerKey: "ck_5afe1ec1d52fef326304ffb21a0fe11c9a436be5",
+      consumerSecret: "cs_7d9e7f817d5f182770c3d044d0d2f5a43ad20a72"
     });
   }
 
